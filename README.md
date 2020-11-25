@@ -29,3 +29,9 @@ Langkah - Langkah:
 
 -Ketik "h" untuk menghapus data. Dengan menginputkan data nama yang ingin di hapus menggunakan kondisi
  if, jika hasilnya benar data akan di hapus.
+ 
+ 
+ ![screen 3](/gambar/screen3.png)
+
+Ketik "c" untuk mencari data. dengan menginputkan data nama yang ingin di cari, jika datanya benar otomatis 
+data akan tercetak yang dicari.
