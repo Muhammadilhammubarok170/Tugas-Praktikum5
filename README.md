@@ -33,5 +33,12 @@ Langkah - Langkah:
  
  ![screen 3](/gambar/screen3.png)
 
-Ketik "c" untuk mencari data. dengan menginputkan data nama yang ingin di cari, jika datanya benar otomatis 
-data akan tercetak yang dicari.
+-Ketik "c" untuk mencari data. dengan menginputkan data nama yang ingin di cari, jika datanya benar otomatis 
+ data akan tercetak yang dicari.
+ 
+ 
+ ![screen 4](/gambar/screen4.png)
+
+
+-Kondisi terakhir gunakan kondisi else dan print(" === Pilih Sesuai Menu Yang Tersedia === ") maksudnya
+ jika menu yang anda inputkan salah anda akan dialihkan ke menu yang tersedia.
