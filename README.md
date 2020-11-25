@@ -17,3 +17,15 @@ Langkah - Langkah:
 
 
 ![screen 1](/gambar/screen1.png)
+
+
+-Ketik "u" untuk mengubah data. Masukan data nama yang ingin di ubah, jika data benar akan kembali ke data
+ perubahan, jika salah akan tercetak print("Data {0} Tidak tersedia ".format(nama)) dan muncul kembali
+ menu pemilihan untuk input data.
+ 
+ 
+ ![screen 2](/gambar/screen2.png)
+
+
+-Ketik "h" untuk menghapus data. Dengan menginputkan data nama yang ingin di hapus menggunakan kondisi
+ if, jika hasilnya benar data akan di hapus.
